@@ -1,15 +1,48 @@
-# Sentiment-Analysis-ML-Project-
+# LimitOrderBook
+> Stock market predictions based on limit order books.
 
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Libraries](#Libraries)
+* [Results](#Results)
+* [Status](#status)
+* [Inspiration](#inspiration)
 
-TODO: </br> </br>
+## General info
+The main goal of this project is to predict the sentiments of sentences. <br>
+We work with IMDB movies reviews dataset. Movies are rated from 1 to 10. We consider only the reviews with rating 1 (the worst ones) and 10 (the best ones). <br>
+The assumption is that movies with rating 1 have negative sentiment and movies with rating 10 have a positive sentiment. <br>
 
-0.1 Stemming https://snowballstem.org/  or Lemmatizing </br>
-0.2 TF-IDF - boost weights of words that appear only in one class </br>
-0.3 Removing stop words? (stop_words=['in','of','at','a','the'])  </br>
-0.4 n-grams </br>
+## Technologies
+* Python - version 3.7.3
 
-</br>
-1. Naive Bayes </br>
-2. Logistic Regression </br>
-3. SVM <br/>
-4. Hypotheses... </br>
+## Libraries
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* sklearn
+* nltk
+* scipy
+* glob
+* re
+* cvxopt
+* tqdm
+
+## Results
+* Accuracies below are measured on test data.
+* Baseline accuracy: 52%.
+* Naive Bayes: 89%.
+* Logistic Regression: 89.9%.
+* SVM: 92%.
+* Heuristic Naive Bayes: 90%.
+
+## Status
+Project is: _finished_,
+
+## Inspiration
+Machine Learning class.
+
+## Authors
+Created by [@TheFebrin](https://github.com/TheFebrin), [@MatMarkiewicz](https://github.com/MatMarkiewicz) and [@gKlocek](https://github.com/gKlocek)
