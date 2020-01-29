@@ -1,5 +1,5 @@
 # LimitOrderBook
-> Stock market predictions based on limit order books.
+> Sentiment analysis based on movies reviews.
 
 ## Table of contents
 * [General info](#general-info)
