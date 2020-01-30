@@ -1,4 +1,4 @@
-# LimitOrderBook
+# Sentiment analysis
 > Sentiment analysis based on movies reviews.
 
 ## Table of contents
