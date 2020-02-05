@@ -33,10 +33,10 @@ The assumption is that movies with rating 1 have negative sentiment and movies w
 ## Results
 * Accuracies below are measured on test data.
 * Baseline accuracy: 52%.
-* Naive Bayes: 89%.
-* Logistic Regression: 89.9%.
-* SVM: 92%.
-* Heuristic Naive Bayes: 90%.
+* Naive Bayes: 89.95%.
+* Logistic Regression: 89.92%.
+* SVM: 92.16%.
+* Heuristic Naive Bayes: 90.32%.
 
 ## Status
 Project is: _finished_,
