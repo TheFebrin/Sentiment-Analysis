@@ -38,6 +38,8 @@ The assumption is that movies with rating 1 have negative sentiment and movies w
 * SVM: 92.16%.
 * Heuristic Naive Bayes: 90.32%.
 
+![Example screenshot](./Images/res.png)
+
 ## Status
 Project is: _finished_,
 
